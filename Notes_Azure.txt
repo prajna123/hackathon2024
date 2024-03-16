@@ -1,0 +1,51 @@
+https://www.youtube.com/watch?v=VfTVIXiffBU
+https://www.youtube.com/watch?v=YQtVJ7qVXDs
+https://www.youtube.com/watch?v=gzADtO3Vf4M
+Azure Account, Azure Resource, Azure Functions
+
+gangof5@2024
+
+streamlit run mystreamlit.py  => stream run command
+
+Samples
+
+21702d0d-cd85-4c3d-9893-7abe8ea82dd0
+mltestrg
+mltestws2
+
+
+
+az functionapp create --resource-group Team-98 --name funcappteam98 --runtime python --consumption-plan-location eastus
+
+func azure functionapp publish funcappteam98 --python
+
+func azure functionapp publish funcappteam98
+
+
+
+az functionapp create --consumption-plan-location eastus --name apiteam98 --os-type Windows --resource-group Team-98 --runtime python --storage-account storageteam98
+
+func azure functionapp publish apiteam98 --python
+
+
+testva2024
+funcva2024
+
+func azure functionapp publish funcva2024
+https://nonint.com/2022/04/25/tortoise-architectural-design-doc/
+
+
+funcvc2024
+
+Express.js app converts text to speech with Cognitive Services Speech - JavaScript on Azure | Microsoft Learn
+
+-------------------------------------------------------------------
+
+voiceanalyze2024
+KEY 1:: b7e3e171946449879304a2c04993891c
+KEY 2 :: 7e343f9dd5794b9dacd3c2ebd54976d7
+region :: eastus
+endpoint:: https://eastus.api.cognitive.microsoft.com/
+
+
+python Identification\CreateProfile.py b7e3e171946449879304a2c04993891c
